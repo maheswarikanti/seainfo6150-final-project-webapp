@@ -5,7 +5,6 @@ import GrabBtn from '../../buttons/grab-offer/grab-btn';
 import Tiles from '../section-tiles/tiles/tiles';
 import Specs from '../section-specs/specs';
 import SpecOffer from '../spec-offer/specOffer';
-import Stacked from '../stacked-photos/stacked';
 import Footer from '../../navigation/footer/footer';
 
 let back = <Brand />;
@@ -66,9 +65,6 @@ class section1 extends Component {
                 </section>
                 <section className="specOffer">
                     <SpecOffer data={this.props.data.mainoffer} />
-                </section>
-                <section className="sec-stacked">
-                    <Stacked />
                 </section>
                 <Footer />
             </div>

@@ -1,7 +1,8 @@
 .toolbar{
     font-size:100%;
     display: inline-block;
-    padding-top:15px;
+    padding-top:10px;
+    padding-right:40px;
     transition: all 0.4s ease-in-out;
     
 }
@@ -117,6 +118,7 @@
     padding-top:10px;
     padding-left:15px;
 }
+
 @media screen and (max-width:770px){
     .t-ext{
         display: none;

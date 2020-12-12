@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/seainfo6150-final-project-webapp/static/css/main.02c89be3.chunk.css",
-    "main.js": "/seainfo6150-final-project-webapp/static/js/main.f6681fb7.chunk.js",
-    "main.js.map": "/seainfo6150-final-project-webapp/static/js/main.f6681fb7.chunk.js.map",
+    "main.css": "/seainfo6150-final-project-webapp/static/css/main.abeab116.chunk.css",
+    "main.js": "/seainfo6150-final-project-webapp/static/js/main.ccf1cbbc.chunk.js",
+    "main.js.map": "/seainfo6150-final-project-webapp/static/js/main.ccf1cbbc.chunk.js.map",
     "runtime-main.js": "/seainfo6150-final-project-webapp/static/js/runtime-main.e94e379b.js",
     "runtime-main.js.map": "/seainfo6150-final-project-webapp/static/js/runtime-main.e94e379b.js.map",
-    "static/css/2.0df75524.chunk.css": "/seainfo6150-final-project-webapp/static/css/2.0df75524.chunk.css",
-    "static/js/2.322fdec3.chunk.js": "/seainfo6150-final-project-webapp/static/js/2.322fdec3.chunk.js",
-    "static/js/2.322fdec3.chunk.js.map": "/seainfo6150-final-project-webapp/static/js/2.322fdec3.chunk.js.map",
+    "static/js/2.b50b6514.chunk.js": "/seainfo6150-final-project-webapp/static/js/2.b50b6514.chunk.js",
+    "static/js/2.b50b6514.chunk.js.map": "/seainfo6150-final-project-webapp/static/js/2.b50b6514.chunk.js.map",
     "index.html": "/seainfo6150-final-project-webapp/index.html",
-    "static/css/2.0df75524.chunk.css.map": "/seainfo6150-final-project-webapp/static/css/2.0df75524.chunk.css.map",
-    "static/css/main.02c89be3.chunk.css.map": "/seainfo6150-final-project-webapp/static/css/main.02c89be3.chunk.css.map",
-    "static/js/2.322fdec3.chunk.js.LICENSE.txt": "/seainfo6150-final-project-webapp/static/js/2.322fdec3.chunk.js.LICENSE.txt",
+    "static/css/main.abeab116.chunk.css.map": "/seainfo6150-final-project-webapp/static/css/main.abeab116.chunk.css.map",
+    "static/js/2.b50b6514.chunk.js.LICENSE.txt": "/seainfo6150-final-project-webapp/static/js/2.b50b6514.chunk.js.LICENSE.txt",
     "static/media/BurgerLogo.eb9dd326.png": "/seainfo6150-final-project-webapp/static/media/BurgerLogo.eb9dd326.png",
     "static/media/menuHeader.css": "/seainfo6150-final-project-webapp/static/media/Menu.ef686e5d.jpg",
     "static/media/inOption.css": "/seainfo6150-final-project-webapp/static/media/backPizza.8a1bdb00.jpg",
@@ -19,17 +17,12 @@
     "static/media/Cart.css": "/seainfo6150-final-project-webapp/static/media/cart.8895bf0b.jpg",
     "static/media/Offer.css": "/seainfo6150-final-project-webapp/static/media/offer.7d34aec2.png",
     "static/media/specOffer.css": "/seainfo6150-final-project-webapp/static/media/pizzaParty.f94bbf9f.jpg",
-    "static/media/rest.a62c5310.jpg": "/seainfo6150-final-project-webapp/static/media/rest.a62c5310.jpg",
-    "static/media/rest1.8adde111.jpg": "/seainfo6150-final-project-webapp/static/media/rest1.8adde111.jpg",
-    "static/media/rest2.cbc35564.jpg": "/seainfo6150-final-project-webapp/static/media/rest2.cbc35564.jpg",
-    "static/media/rest3.756d3975.jpg": "/seainfo6150-final-project-webapp/static/media/rest3.756d3975.jpg",
     "static/media/OrderOnline.css": "/seainfo6150-final-project-webapp/static/media/serve.161fe04c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e94e379b.js",
-    "static/css/2.0df75524.chunk.css",
-    "static/js/2.322fdec3.chunk.js",
-    "static/css/main.02c89be3.chunk.css",
-    "static/js/main.f6681fb7.chunk.js"
+    "static/js/2.b50b6514.chunk.js",
+    "static/css/main.abeab116.chunk.css",
+    "static/js/main.ccf1cbbc.chunk.js"
   ]
 }

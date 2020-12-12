@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/seainfo6150-final-project-webapp/static/css/main.02c89be3.chunk.css",
-    "main.js": "/seainfo6150-final-project-webapp/static/js/main.7ea74ee0.chunk.js",
-    "main.js.map": "/seainfo6150-final-project-webapp/static/js/main.7ea74ee0.chunk.js.map",
+    "main.js": "/seainfo6150-final-project-webapp/static/js/main.f6681fb7.chunk.js",
+    "main.js.map": "/seainfo6150-final-project-webapp/static/js/main.f6681fb7.chunk.js.map",
     "runtime-main.js": "/seainfo6150-final-project-webapp/static/js/runtime-main.e94e379b.js",
     "runtime-main.js.map": "/seainfo6150-final-project-webapp/static/js/runtime-main.e94e379b.js.map",
     "static/css/2.0df75524.chunk.css": "/seainfo6150-final-project-webapp/static/css/2.0df75524.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.0df75524.chunk.css",
     "static/js/2.322fdec3.chunk.js",
     "static/css/main.02c89be3.chunk.css",
-    "static/js/main.7ea74ee0.chunk.js"
+    "static/js/main.f6681fb7.chunk.js"
   ]
 }
